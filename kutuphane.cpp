@@ -48,6 +48,7 @@ class KitapIslemi {
 
                 default:
                     std::cout << "Yanlis islem secimi yaptiniz!" << std::endl;
+                    break;
             }
         } 
 
@@ -84,6 +85,7 @@ class UyeIslemi {
 
                 default:
                     std::cout << "Yanlis islem secimi yaptiniz!" << std::endl;
+                    break;
             }
         }
 
